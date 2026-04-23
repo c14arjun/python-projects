@@ -1,0 +1,10 @@
+print("codingal")
+print("arjun")
+print(1234.65)
+print(13-7)
+print(15*3)
+print(3/3)
+first_name="arjun"
+print("my name is :", first_name)
+name=input("enter your name")
+print("my name is:",name)
