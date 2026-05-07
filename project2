@@ -1,0 +1,4 @@
+arjuns_birthday=input("enter your birthdate: ")
+print(arjuns_birthday)
+anands_birthday=input("enter your birthdate: ")
+print(anands_birthday)

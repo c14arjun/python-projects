@@ -1,0 +1,6 @@
+word=("insan")
+print(word.upper())
+word1=("e")
+print(word1.upper())
+print(word+word1)
+print((word.upper()+word1.upper())[::-1])
