@@ -1,0 +1,10 @@
+mean1=38
+wrong_number=36
+correct_number=56
+total_number=40
+result=mean1*total_number
+print(result)
+num2=result-(wrong_number-correct_number)
+print(num2)
+mean2=num2/total_number
+print(mean2)
