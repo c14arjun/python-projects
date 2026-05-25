@@ -21,4 +21,5 @@ else:
     cost_per_unit=8.45
     tax=75
     bill=electricity*cost_per_unit
-    total_bill=bill+taxprint(total_bill)
+    total_bill=bill+tax
+    print(total_bill)
