@@ -14,7 +14,7 @@ elif electricity >50 and electricity<100:
 elif electricity >100 and electricity<200:
     cost_per_unit=5.26
     tax=45
-    bill=electricty*cost_per_unit
+    bill=electricity*cost_per_unit
     total_bill=bill+tax
     print(total_bill)
 else:
