@@ -1,0 +1,6 @@
+tuple=(5,3,9,7,1,4,2)
+print(tuple)
+sum=sum(tuple)
+print(sum)
+average=sum/len(tuple)
+print(average)
